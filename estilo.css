@@ -1,0 +1,41 @@
+body{
+
+
+
+}
+div#login{
+    padding: 50px;
+    height: 350px;
+    margin-top: 90px;
+    margin-left: 300px;
+    background-color: rgba(255, 255, 255, 0.815);
+    text-align: center;
+    box-shadow: 10px;
+    border-radius: 50px;
+    width: 200px;
+    align-items: center;
+}
+p{
+
+
+}
+.someclass{
+    width: 200px;
+    border-radius: 100px;
+}
+.some{
+    width: 150px;
+    background-color: red;
+}
+.facebook{
+font: white;
+background-color: rgb(0, 0, 190);
+color: white;
+border-radius: 6px;
+}
+.google{
+    color: white;
+    background-color: red;
+    border-radius: 6px;
+    width: 142px;
+}
